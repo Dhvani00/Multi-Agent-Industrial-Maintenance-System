@@ -1,0 +1,138 @@
+work_order_id,turbine_id,date,category,description,action_taken
+WO-001-01,WT-01,2025-01-03,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-001-02,WT-01,2025-01-10,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-002-01,WT-02,2025-01-06,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-002-02,WT-02,2025-01-13,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-002-03,WT-02,2025-01-20,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-003-01,WT-03,2025-01-09,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-003-02,WT-03,2025-01-16,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-003-03,WT-03,2025-01-23,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-003-04,WT-03,2025-01-03,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-004-01,WT-04,2025-01-12,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-004-02,WT-04,2025-01-19,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-005-01,WT-05,2025-01-15,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-005-02,WT-05,2025-01-22,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-005-03,WT-05,2025-01-29,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-006-01,WT-06,2025-01-18,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-006-02,WT-06,2025-01-25,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-006-03,WT-06,2025-01-05,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-006-04,WT-06,2025-01-12,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-007-01,WT-07,2025-01-21,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-007-02,WT-07,2025-01-28,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-008-01,WT-08,2025-01-24,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-008-02,WT-08,2025-01-04,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-008-03,WT-08,2025-01-11,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-009-01,WT-09,2025-01-27,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-009-02,WT-09,2025-01-07,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-009-03,WT-09,2025-01-14,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-009-04,WT-09,2025-01-21,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-010-01,WT-10,2025-01-03,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-010-02,WT-10,2025-01-10,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-011-01,WT-11,2025-01-06,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-011-02,WT-11,2025-01-13,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-011-03,WT-11,2025-01-20,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-012-01,WT-12,2025-01-09,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-012-02,WT-12,2025-01-16,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-012-03,WT-12,2025-01-23,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-012-04,WT-12,2025-01-03,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-013-01,WT-13,2025-01-12,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-013-02,WT-13,2025-01-19,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-014-01,WT-14,2025-01-15,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-014-02,WT-14,2025-01-22,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-014-03,WT-14,2025-01-29,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-015-01,WT-15,2025-01-18,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-015-02,WT-15,2025-01-25,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-015-03,WT-15,2025-01-05,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-015-04,WT-15,2025-01-12,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-016-01,WT-16,2025-01-21,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-016-02,WT-16,2025-01-28,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-017-01,WT-17,2025-01-24,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-017-02,WT-17,2025-01-04,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-017-03,WT-17,2025-01-11,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-018-01,WT-18,2025-01-27,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-018-02,WT-18,2025-01-07,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-018-03,WT-18,2025-01-14,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-018-04,WT-18,2025-01-21,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-019-01,WT-19,2025-01-03,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-019-02,WT-19,2025-01-10,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-020-01,WT-20,2025-01-06,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-020-02,WT-20,2025-01-13,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-020-03,WT-20,2025-01-20,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-021-01,WT-21,2025-01-09,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-021-02,WT-21,2025-01-16,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-021-03,WT-21,2025-01-23,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-021-04,WT-21,2025-01-03,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-022-01,WT-22,2025-01-12,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-022-02,WT-22,2025-01-19,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-023-01,WT-23,2025-01-15,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-023-02,WT-23,2025-01-22,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-023-03,WT-23,2025-01-29,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-024-01,WT-24,2025-01-18,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-024-02,WT-24,2025-01-25,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-024-03,WT-24,2025-01-05,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-024-04,WT-24,2025-01-12,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-025-01,WT-25,2025-01-21,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-025-02,WT-25,2025-01-28,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-026-01,WT-26,2025-01-24,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-026-02,WT-26,2025-01-04,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-026-03,WT-26,2025-01-11,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-027-01,WT-27,2025-01-27,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-027-02,WT-27,2025-01-07,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-027-03,WT-27,2025-01-14,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-027-04,WT-27,2025-01-21,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-028-01,WT-28,2025-01-03,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-028-02,WT-28,2025-01-10,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-029-01,WT-29,2025-01-06,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-029-02,WT-29,2025-01-13,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-029-03,WT-29,2025-01-20,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-030-01,WT-30,2025-01-09,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-030-02,WT-30,2025-01-16,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-030-03,WT-30,2025-01-23,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-030-04,WT-30,2025-01-03,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-031-01,WT-31,2025-01-12,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-031-02,WT-31,2025-01-19,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-032-01,WT-32,2025-01-15,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-032-02,WT-32,2025-01-22,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-032-03,WT-32,2025-01-29,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-033-01,WT-33,2025-01-18,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-033-02,WT-33,2025-01-25,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-033-03,WT-33,2025-01-05,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-033-04,WT-33,2025-01-12,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-034-01,WT-34,2025-01-21,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-034-02,WT-34,2025-01-28,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-035-01,WT-35,2025-01-24,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-035-02,WT-35,2025-01-04,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-035-03,WT-35,2025-01-11,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-036-01,WT-36,2025-01-27,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-036-02,WT-36,2025-01-07,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-036-03,WT-36,2025-01-14,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-036-04,WT-36,2025-01-21,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-037-01,WT-37,2025-01-03,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-037-02,WT-37,2025-01-10,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-038-01,WT-38,2025-01-06,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-038-02,WT-38,2025-01-13,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-038-03,WT-38,2025-01-20,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-039-01,WT-39,2025-01-09,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-039-02,WT-39,2025-01-16,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-039-03,WT-39,2025-01-23,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-039-04,WT-39,2025-01-03,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-040-01,WT-40,2025-01-12,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-040-02,WT-40,2025-01-19,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-041-01,WT-41,2025-01-15,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-041-02,WT-41,2025-01-22,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-041-03,WT-41,2025-01-29,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-042-01,WT-42,2025-01-18,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-042-02,WT-42,2025-01-25,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-042-03,WT-42,2025-01-05,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-042-04,WT-42,2025-01-12,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-043-01,WT-43,2025-01-21,Gearbox,Elevated gearbox temperature observed during routine inspection.,Checked temperature trend and scheduled follow-up inspection.
+WO-043-02,WT-43,2025-01-28,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-044-01,WT-44,2025-01-24,Lubrication,Lubrication level below the routine inspection reference.,Topped up lubricant and recorded service completion.
+WO-044-02,WT-44,2025-01-04,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-044-03,WT-44,2025-01-11,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-045-01,WT-45,2025-01-27,Electrical,Intermittent electrical warning recorded by the monitoring system.,Inspected electrical cabinet connections; further monitoring advised.
+WO-045-02,WT-45,2025-01-07,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-045-03,WT-45,2025-01-14,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
+WO-045-04,WT-45,2025-01-21,Gearbox,Increased vibration reading prompted a gearbox condition check.,Performed visual check and recommended trend monitoring.
+WO-046-01,WT-46,2025-01-03,Hydraulic,Hydraulic pressure fluctuation noted during operation.,Checked hydraulic circuit and documented pressure readings.
+WO-046-02,WT-46,2025-01-10,General inspection,Routine visual inspection identified minor wear on an external component.,Recorded observation for the next planned maintenance visit.
